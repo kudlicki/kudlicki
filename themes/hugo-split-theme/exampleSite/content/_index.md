@@ -1,6 +1,6 @@
 +++
-title = "Jenny Jones"
-tagline = "Designer. Stylist. Nomad."
+title = "Wojciech Kudlicki"
+tagline = "Digital marketing"
 +++
 
-Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna]({{< ref "luctus-urna.md" >}}) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in]({{< ref "ipsum-in.md" >}}) malesuada congue, [purus sem]({{< ref "purus-sem.md" >}}) ullamcorper massa, sit amet lacinia nibh enim sed massa.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed purus sit amet ipsum dictum eleifend et vitae magna. Vivamus ut ultricies erat. Fusce feugiat nunc a viverra iaculis.
